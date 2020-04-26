@@ -1,4 +1,11 @@
-<?php 
+
+<html>
+<head>
+<title>
+   Scammp Assessment 
+   </title>
+   </head>
+<?php
 // PHP code to get the Fibonacci series 
 function Fibonacci($n){ 
   
@@ -19,3 +26,5 @@ function Fibonacci($n){
 $n = 10; 
 Fibonacci($n); 
 ?> 
+</body>
+</html>
